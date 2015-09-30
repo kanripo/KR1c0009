@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-12 00:40:02.379711
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0694-002詩集傳-卷二.
 <pb:KR1c0009_SBCK_002-1a>¶
 詩卷第二　朱熹集傳¶
 　　邶一之三(邶鄘衛三國名在禹貢/冀州西阻太行北逾衡)¶
@@ -407,4 +411,3 @@
 　　　　　邶十九篇七十二章三百六¶
 　　　　　十三句¶
 詩卷第二¶
-

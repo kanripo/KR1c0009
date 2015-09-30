@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-12 00:40:02.516247
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB09n0694-005詩集傳-卷五.
 <pb:KR1c0009_SBCK_005-1a>¶
 詩卷第五　朱熹集傳¶
 　　齊一之八(齊國名夲少昊時爽鳩/氏所居之地在禹貢爲)¶
@@ -281,4 +285,3 @@
 　　　　魏國七篇十八章一百二十¶
 　　　　八句¶
 詩卷第五¶
-

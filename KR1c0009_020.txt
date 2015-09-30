@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 19
+#+DATE: 2015-09-12 00:40:03.188480
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB09n0694-020詩集傳-卷二十.
 <pb:KR1c0009_SBCK_020-1a>¶
 詩卷第二十　朱熹集傳¶
 　　魯頌四之四(魯少皥之墟在禹貢/徐州蒙羽之野成王)¶
@@ -374,4 +378,3 @@
 <pb:KR1c0009_SBCK_020-24a>¶
 　　四句¶
 詩卷第二十¶
-

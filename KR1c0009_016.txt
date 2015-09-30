@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 15
+#+DATE: 2015-09-12 00:40:02.999510
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB09n0694-016詩集傳-卷十六.
 <pb:KR1c0009_SBCK_016-1a>¶
 詩卷第十六　朱熹集傳¶
 　大雅三(說見/小雅)¶
@@ -499,4 +503,3 @@
 (誤/耳)¶
 詩卷第十六¶
 <pb:KR1c0009_SBCK_016-35a>¶
-

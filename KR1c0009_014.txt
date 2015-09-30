@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 13
+#+DATE: 2015-09-12 00:40:02.918815
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 14
+#+PROPERTY: FILE SB09n0694-014詩集傳-卷十四.
 <pb:KR1c0009_SBCK_014-1a>¶
 詩卷第十四　朱熹集傳¶
 　　桑扈之什二之七¶
@@ -249,4 +253,3 @@
 　　　　桑扈之什十篇四十三章二¶
 　　　　百八十二句¶
 <pb:KR1c0009_SBCK_014-17b>¶
-

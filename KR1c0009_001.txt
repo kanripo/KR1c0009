@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-12 00:40:02.338049
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0694-001詩集傳-卷一.
 <pb:KR1c0009_SBCK_001-1a>¶
 詩卷第一　朱熹集傳¶
 　國風一(國者諸矦所封之域而風者/民俗歌謡之詩也謂之風者)¶
@@ -453,4 +457,3 @@
 <pb:KR1c0009_SBCK_001-30a>¶
 ¶
 詩卷第一¶
-

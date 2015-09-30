@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-12 00:40:02.427385
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0694-003詩集傳-卷三.
 <pb:KR1c0009_SBCK_003-1a>¶
 詩卷第三　朱熹集傳¶
 　　鄘一之四(說見/上篇)¶
@@ -444,4 +448,3 @@
 <pb:KR1c0009_SBCK_003-29b>¶
 ¶
 詩卷第三¶
-

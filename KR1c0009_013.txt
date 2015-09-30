@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 12
+#+DATE: 2015-09-12 00:40:02.877414
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB09n0694-013詩集傳-卷十三.
 <pb:KR1c0009_SBCK_013-1a>¶
 詩卷第十三　朱熹集傳¶
 　　北山之什二之六¶
@@ -330,4 +334,3 @@
 　　　　百三十四句¶
 <pb:KR1c0009_SBCK_013-21b>¶
 <pb:KR1c0009_SBCK_013-21b>¶
-

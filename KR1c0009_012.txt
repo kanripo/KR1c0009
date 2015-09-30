@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 11
+#+DATE: 2015-09-12 00:40:02.827659
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB09n0694-012詩集傳-卷十二.
 <pb:KR1c0009_SBCK_012-1a>¶
 詩卷第十二　朱熹集傳¶
 　　小旻之什二之五¶
@@ -443,4 +447,3 @@
 　　　　小旻之什十篇六十五章四¶
 　　　　百十四句¶
 <pb:KR1c0009_SBCK_012-28b>¶
-

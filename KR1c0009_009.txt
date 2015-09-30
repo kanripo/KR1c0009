@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-12 00:40:02.692006
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB09n0694-009詩集傳-卷九.
 <pb:KR1c0009_SBCK_009-1a>¶
 詩卷第九　朱熹集傳¶
 　小雅二(雅者正也正樂之歌也其篇/本有大小之殊而先儒說又)¶
@@ -471,4 +475,3 @@
 　　　　二十三章一百四句¶
 詩卷第九¶
 <pb:KR1c0009_SBCK_009-30b>¶
-

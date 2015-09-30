@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-12 00:40:02.645545
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB09n0694-008詩集傳-卷八.
 <pb:KR1c0009_SBCK_008-1a>¶
 詩卷第八　朱熹集傳¶
 　　&KR0206;一之十五(&KR0206;國名在禹貢雍州/岐山之北厡隰之野)¶
@@ -315,4 +319,3 @@
 <pb:KR1c0009_SBCK_008-20b>¶
 ¶
 詩卷第八¶
-

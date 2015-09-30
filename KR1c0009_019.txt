@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 18
+#+DATE: 2015-09-12 00:40:03.142733
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB09n0694-019詩集傳-卷十九.
 <pb:KR1c0009_SBCK_019-1a>¶
 詩卷第十九　朱熹集傳¶
 　頌曰(頌者宗廟之樂歌大序所謂美/盛德之形容以其成功告於神)¶
@@ -436,4 +440,3 @@
 (河以周四嶽凢以敷天之下莫不有望/於我故聚而朝之方嶽之下以答其意)¶
 <pb:KR1c0009_SBCK_019-28a>¶
 <pb:KR1c0009_SBCK_019-29a>¶
-

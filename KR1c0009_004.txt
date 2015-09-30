@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-12 00:40:02.471765
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0694-004詩集傳-卷四.
 <pb:KR1c0009_SBCK_004-1a>¶
 詩卷第四　朱熹集傳¶
 　　王一之六(王謂周東都洛邑王城/畿内方六百里之地在)¶
@@ -456,4 +460,3 @@
 (次第也詩可以/觀豈不信哉)¶
 詩卷第四¶
 <pb:KR1c0009_SBCK_004-30b>¶
-

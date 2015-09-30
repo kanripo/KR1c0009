@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 14
+#+DATE: 2015-09-12 00:40:02.960304
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 15
+#+PROPERTY: FILE SB09n0694-015詩集傳-卷十五.
 <pb:KR1c0009_SBCK_015-1a>¶
 詩卷第十五　朱熹集傳¶
 　　都人士之什二之八¶
@@ -184,4 +188,3 @@
 　　　　　二百句¶
 詩卷第十五¶
 <pb:KR1c0009_SBCK_015-12b>¶
-

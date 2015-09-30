@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 6
+#+DATE: 2015-09-12 00:40:02.604179
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB09n0694-007詩集傳-卷七.
 <pb:KR1c0009_SBCK_007-1a>¶
 詩卷第七　朱熹集傳¶
 　　　陳一之十二(陳國名太皥伏羲/氏之墟在禹貢豫)¶
@@ -274,4 +278,3 @@
 　　　　曹國四篇十五章六十八句¶
 詩卷第七¶
 <pb:KR1c0009_SBCK_007-18a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩集傳
-#+DATE: 2015-09-23 09:36:29
-#+PROPERTY: JUAN 20
+#+DATE: 2015-09-12 00:40:03.231866
+#+PROPERTY: ID KR1c0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 21
+#+PROPERTY: FILE SB09n0694-021詩集傳-後序.
 <pb:KR1c0009_SBCK_021-1a>¶
 宋本詩集傳吾鄉内有二本一為陳徵君簡荘年文&KR0001;藏一為叔祖兎¶
 牀先生拜&KR0052;樓&KR0001;藏今夏為兒子(彚升)㸃定句讀因於舍弟絜文䖏叚¶
@@ -40,4 +44,3 @@
 縣學附學生員海寕星滄里人吳之瑗厚渠氏識¶
 <pb:KR1c0009_SBCK_021-2b>¶
 <pb:KR1c0009_SBCK_021-2b>¶
-
